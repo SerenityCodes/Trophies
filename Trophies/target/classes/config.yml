@@ -1,0 +1,47 @@
+# Config.yml for the Trophies Plugin. Here you can find everything customizable about the plugin
+# To Find the custom messages that can be sent, go to the messages.yml file
+
+# Here you enter the amount of tiers you want (Necessary in order for the plugin to work)
+Amount-Of-Tiers: 3
+
+# Example Tier
+#Tier1:
+#  name: '&5Bruh moment'
+#  amount: 20 <--- Amount of Mob Coins added per minute
+#  cap: 1
+#  level-gain: 10000
+#  helmet: 'IRON_HELMET'
+#  chest: 'IRON_CHESTPLATE'
+#  leggings: 'IRON_LEGGINGS'
+#  boots: 'IRON_BOOTS'
+Tiers:
+  Tier1:
+    name: '&5Tier 1'
+    amount: 2
+    cap: 5
+    level-gain: 10000
+    helmet: 'DIRT'
+    chest: 'DIAMOND_CHESTPLATE'
+    leggings: 'DIAMOND_LEGGINGS'
+    boots: 'DIAMOND_BOOTS'
+  Tier2:
+    name: '&6Tier 2'
+    amount: 4
+    cap: 3
+    level-gain: 15000
+    helmet: 'COBBLESTONE'
+    chest: 'DIAMOND_CHESTPLATE'
+    leggings: 'DIAMOND_LEGGINGS'
+    boots: 'DIAMOND_BOOTS'
+  Tier3:
+    name: '&6Tier 3'
+    amount: 8
+    cap: 1
+    level-gain: 20000
+    helmet: 'DIAMOND_BLOCK'
+    chest: 'DIAMOND_CHESTPLATE'
+    leggings: 'DIAMOND_LEGGINGS'
+    boots: 'DIAMOND_BOOTS'
+
+
+

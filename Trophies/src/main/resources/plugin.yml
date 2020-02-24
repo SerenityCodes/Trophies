@@ -1,0 +1,13 @@
+name: Trophies
+version: ${project.version}
+main: com.champmc.trophies.Trophies
+api-version: 1.8.8
+authors: [Squid]
+depend: [SuperiorSkyblock2]
+description: Mob Coin Trophies
+commands:
+  trophies:
+    description: Admin command for the Trophies plugin
+    permission: trophies.admin
+    aliases: [trophy]
+

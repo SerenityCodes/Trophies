@@ -1,0 +1,16 @@
+com\champmc\trophies\events\TrophyPickupEvent.class
+com\champmc\trophies\listeners\InteractListener.class
+com\champmc\trophies\listeners\OpenTrophyListener.class
+com\champmc\trophies\listeners\MenuManager.class
+com\champmc\trophies\listeners\TrophyPlacePickupListener.class
+com\champmc\trophies\managers\TrophyManager.class
+com\champmc\trophies\menus\InsideGUI.class
+com\champmc\trophies\commands\TrophiesCommand.class
+com\champmc\trophies\files\Messages.class
+com\champmc\trophies\Trophies.class
+com\champmc\trophies\utils\Utils.class
+com\champmc\trophies\menus\GiveTrophyGUI.class
+com\champmc\trophies\listeners\MenuManager$1.class
+com\champmc\trophies\tasks\AddCurrencyTask.class
+com\champmc\trophies\events\TrophyPlaceEvent.class
+com\champmc\trophies\menus\MainGUI.class
